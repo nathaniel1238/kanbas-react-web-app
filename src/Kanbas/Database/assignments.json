@@ -1,0 +1,11 @@
+[
+  { "_id": "A101", "title": "Hello World", "course": "CS101" },
+  { "_id": "A102", "title": "Calculator Game", "course": "CS101" },
+  { "_id": "A103", "title": "Flappy Bird", "course": "CS101" },
+  { "_id": "A201", "title": "Intro to Java", "course": "CS102" },
+  { "_id": "A202", "title": "Maze Game", "course": "CS102" },
+  { "_id": "A203", "title": "For loops", "course": "CS102" },
+  { "_id": "A301", "title": "Shapes", "course": "CS103" },
+  { "_id": "A302", "title": "Battle Salvo", "course": "CS103" },
+  { "_id": "A303", "title": "Java Journal", "course": "CS103" }
+]

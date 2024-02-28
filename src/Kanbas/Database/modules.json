@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "M101",
+    "name": "Introduction to Fundamentals of Computer Science",
+    "description": "Basic principles Dr. Racket and Syntax.",
+    "course": "CS101",
+    "lessons": [
+      {
+        "_id": "L101",
+        "name": "Math in Dr. Racket",
+        "description": "Learning Math operators in Dr. Racket.",
+        "module": "M101"
+      },
+      {
+        "_id": "L102",
+        "name": "Drawing Shapes",
+        "description": "How to draw shapes and animations in Dr. Racket",
+        "module": "M101"
+      },
+      {
+        "_id": "L103",
+        "name": "Variables and Datatypes",
+        "description": "Learning basic datatypes like Integer, String, and Boolean",
+        "module": "M101"
+      }
+    ]
+  },
+  {
+    "_id": "M102",
+    "name": "Learning More Complex Data Structures",
+    "description": "Understanding Lists, Linked Lists, Deques, Hashmpas",
+    "course": "CS101",
+    "lessons": [
+      {
+        "_id": "L201",
+        "name": "Lists and Linked Lists",
+        "description": "When to use a List to store data versus Linked Lists.",
+        "module": "M102"
+      },
+      {
+        "_id": "L202",
+        "name": "Deques",
+        "description": "How to initialize and use a Deque.",
+        "module": "M102"
+      },
+      {
+        "_id": "L203",
+        "name": "Hashmaps",
+        "description": "How to initialize and use a Hashmap.",
+        "module": "M102"
+      }
+    ]
+  },
+  {
+    "_id": "M103",
+    "name": "Coding Best Practices",
+    "description": "Principles of writing readable and reuseable code.",
+    "course": "CS101",
+    "lessons": [
+      {
+        "_id": "L301",
+        "name": "Debugging",
+        "description": "How to use a debugger.",
+        "module": "M103"
+      },
+      {
+        "_id": "L302",
+        "name": "Unit Testing",
+        "description": "How to write good unit tests.",
+        "module": "M103"
+      },
+      {
+        "_id": "L303",
+        "name": "Pair programming",
+        "description": "How to effectively work with others.",
+        "module": "M103"
+      }
+    ]
+  },
+  {
+    "_id": "M201",
+    "name": "Intro to Java",
+    "description": "Basic Java and Syntax",
+    "course": "CS102"
+  },
+  {
+    "_id": "M202",
+    "name": "For loops and Recursion",
+    "description": "Difference between iterative and recursive functions.",
+    "course": "CS102"
+  },
+  {
+    "_id": "M203",
+    "name": "Classes and Constructors",
+    "description": "How to create and initialize Java classes.",
+    "course": "CS102"
+  },
+  {
+    "_id": "M301",
+    "name": "Intro to Object Oriented Programming Concepts",
+    "description": "Benefits of object oriented programming languages.",
+    "course": "CS103"
+  },
+  {
+    "_id": "M302",
+    "name": "Inheritance",
+    "description": "Abstract Classes and Interfaces.",
+    "course": "CS103"
+  },
+  {
+    "_id": "M303",
+    "name": "MVC Architecture",
+    "description": "How to use Model View Controller when designing your classes.",
+    "course": "CS103"
+  }
+]

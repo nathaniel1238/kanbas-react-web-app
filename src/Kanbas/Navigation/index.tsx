@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import logo from '/Users/nathanielxie/Desktop/cs4550/kanbas-react-web-app/src/images/neulogo.png';
+import logo from 'src/neu_logo.png';
 import "./index.css"
 import { 
   FaTachometerAlt, 
